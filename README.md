@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
+<img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
